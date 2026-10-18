@@ -1,0 +1,49 @@
+company,period,scope,metric,value,unit,source_doc,page,printed_page,pdf_label,statement,checked,notes
+Infosys,FY2026,standalone,revenue_from_operations,148819,INR crore,infosys-ar-26.pdf,209,240,Revenue from operations,profit_and_loss,yes,matches Board's report
+Infosys,FY2025,standalone,revenue_from_operations,136592,INR crore,infosys-ar-26.pdf,209,240,Revenue from operations,profit_and_loss,yes,matches Board's report
+Infosys,FY2026,consolidated,revenue_from_operations,178650,INR crore,infosys-ar-26.pdf,287,318,Revenue from operations,profit_and_loss,yes,matches Board's report
+Infosys,FY2025,consolidated,revenue_from_operations,162990,INR crore,infosys-ar-26.pdf,287,318,Revenue from operations,profit_and_loss,yes,matches Board's report
+Infosys,FY2026,standalone,profit_after_tax,29211,INR crore,infosys-ar-26.pdf,209,240,Profit for the year,profit_and_loss,yes,text layer reads '29, 211'
+Infosys,FY2025,standalone,profit_after_tax,25568,INR crore,infosys-ar-26.pdf,209,240,Profit for the year,profit_and_loss,yes,
+Infosys,FY2026,consolidated,profit_after_tax,29474,INR crore,infosys-ar-26.pdf,287,318,Profit for the year,profit_and_loss,yes,= owners 29440 + NCI 34
+Infosys,FY2025,consolidated,profit_after_tax,26750,INR crore,infosys-ar-26.pdf,287,318,Profit for the year,profit_and_loss,yes,= owners 26713 + NCI 37
+Infosys,FY2026,standalone,net_income_owners,29211,INR crore,infosys-ar-26.pdf,209,240,Profit for the year,profit_and_loss,yes,standalone has no NCI so equals PAT
+Infosys,FY2025,standalone,net_income_owners,25568,INR crore,infosys-ar-26.pdf,209,240,Profit for the year,profit_and_loss,yes,standalone has no NCI so equals PAT
+Infosys,FY2026,consolidated,net_income_owners,29440,INR crore,infosys-ar-26.pdf,288,319,Profit attributable to: > Owners of the Company,profit_and_loss,yes,second 'Owners of the Company' row on this page is total comprehensive income (32750) - do not confuse
+Infosys,FY2025,consolidated,net_income_owners,26713,INR crore,infosys-ar-26.pdf,288,319,Profit attributable to: > Owners of the Company,profit_and_loss,yes,second 'Owners of the Company' row on this page is total comprehensive income (27167) - do not confuse
+Infosys,FY2026,standalone,eps_basic,70.87,INR,infosys-ar-26.pdf,210,241,Earnings per equity share > Basic (in INR per share),profit_and_loss,yes,= 29211 cr / 4121931567 shares
+Infosys,FY2025,standalone,eps_basic,61.58,INR,infosys-ar-26.pdf,210,241,Earnings per equity share > Basic (in INR per share),profit_and_loss,yes,= 25568 cr / 4151936905 shares
+Infosys,FY2026,consolidated,eps_basic,71.58,INR,infosys-ar-26.pdf,288,319,Earnings per equity share > Basic,profit_and_loss,yes,= 29440 cr / 4112814745 shares
+Infosys,FY2025,consolidated,eps_basic,64.50,INR,infosys-ar-26.pdf,288,319,Earnings per equity share > Basic,profit_and_loss,yes,= 26713 cr / 4141611738 shares
+Infosys,FY2026,standalone,eps_diluted,70.78,INR,infosys-ar-26.pdf,210,241,Earnings per equity share > Diluted (in INR per share),profit_and_loss,yes,
+Infosys,FY2025,standalone,eps_diluted,61.46,INR,infosys-ar-26.pdf,210,241,Earnings per equity share > Diluted (in INR per share),profit_and_loss,yes,
+Infosys,FY2026,consolidated,eps_diluted,71.46,INR,infosys-ar-26.pdf,288,319,Earnings per equity share > Diluted,profit_and_loss,yes,
+Infosys,FY2025,consolidated,eps_diluted,64.34,INR,infosys-ar-26.pdf,288,319,Earnings per equity share > Diluted,profit_and_loss,yes,
+Infosys,FY2026,standalone,total_assets,126691,INR crore,infosys-ar-26.pdf,207,238,Total assets,balance_sheet,yes,= total equity and liabilities p208
+Infosys,FY2025,standalone,total_assets,124936,INR crore,infosys-ar-26.pdf,207,238,Total assets,balance_sheet,yes,= total equity and liabilities p208
+Infosys,FY2026,consolidated,total_assets,155967,INR crore,infosys-ar-26.pdf,285,316,Total assets,balance_sheet,yes,= total equity and liabilities p286
+Infosys,FY2025,consolidated,total_assets,148903,INR crore,infosys-ar-26.pdf,285,316,Total assets,balance_sheet,yes,= total equity and liabilities p286
+Infosys,FY2026,standalone,total_equity,80874,INR crore,infosys-ar-26.pdf,208,239,Total equity,balance_sheet,yes,
+Infosys,FY2025,standalone,total_equity,87332,INR crore,infosys-ar-26.pdf,208,239,Total equity,balance_sheet,yes,text layer reads '87, 332'
+Infosys,FY2026,consolidated,total_equity,93297,INR crore,infosys-ar-26.pdf,286,317,Total equity,balance_sheet,yes,includes NCI 445
+Infosys,FY2025,consolidated,total_equity,96203,INR crore,infosys-ar-26.pdf,286,317,Total equity,balance_sheet,yes,includes NCI 385
+Infosys,FY2026,standalone,equity_owners,80874,INR crore,infosys-ar-26.pdf,208,239,Total equity,balance_sheet,yes,standalone has no NCI so equals total equity
+Infosys,FY2025,standalone,equity_owners,87332,INR crore,infosys-ar-26.pdf,208,239,Total equity,balance_sheet,yes,standalone has no NCI so equals total equity
+Infosys,FY2026,consolidated,equity_owners,92852,INR crore,infosys-ar-26.pdf,286,317,Total equity attributable to equity holders of the Company,balance_sheet,yes,+ NCI 445 = 93297
+Infosys,FY2025,consolidated,equity_owners,95818,INR crore,infosys-ar-26.pdf,286,317,Total equity attributable to equity holders of the Company,balance_sheet,yes,+ NCI 385 = 96203
+Infosys,FY2026,standalone,total_borrowings,0,INR crore,infosys-ar-26.pdf,208,239,(no borrowings line),balance_sheet,yes,no borrowings line on the balance sheet
+Infosys,FY2025,standalone,total_borrowings,0,INR crore,infosys-ar-26.pdf,208,239,(no borrowings line),balance_sheet,yes,no borrowings line on the balance sheet
+Infosys,FY2026,consolidated,total_borrowings,0,INR crore,infosys-ar-26.pdf,286,317,(no borrowings line),balance_sheet,yes,no borrowings line on the balance sheet
+Infosys,FY2025,consolidated,total_borrowings,0,INR crore,infosys-ar-26.pdf,286,317,(no borrowings line),balance_sheet,yes,no borrowings line on the balance sheet
+Infosys,FY2026,standalone,lease_liabilities,3749,INR crore,infosys-ar-26.pdf,208,239,Lease liabilities (non-current + current),balance_sheet,yes,2815 non-current + 934 current
+Infosys,FY2025,standalone,lease_liabilities,3459,INR crore,infosys-ar-26.pdf,208,239,Lease liabilities (non-current + current),balance_sheet,yes,2694 non-current + 765 current
+Infosys,FY2026,consolidated,lease_liabilities,9176,INR crore,infosys-ar-26.pdf,286,317,Lease liabilities (non-current + current),balance_sheet,yes,6016 non-current + 3160 current
+Infosys,FY2025,consolidated,lease_liabilities,8227,INR crore,infosys-ar-26.pdf,286,317,Lease liabilities (non-current + current),balance_sheet,yes,5772 non-current + 2455 current
+Infosys,FY2026,standalone,operating_cash_flow,28164,INR crore,infosys-ar-26.pdf,216,247,Net cash generated by operating activities,cash_flow,yes,
+Infosys,FY2025,standalone,operating_cash_flow,29409,INR crore,infosys-ar-26.pdf,216,247,Net cash generated by operating activities,cash_flow,yes,
+Infosys,FY2026,consolidated,operating_cash_flow,33986,INR crore,infosys-ar-26.pdf,294,325,Net cash generated by operating activities,cash_flow,yes,
+Infosys,FY2025,consolidated,operating_cash_flow,35694,INR crore,infosys-ar-26.pdf,294,325,Net cash generated by operating activities,cash_flow,yes,
+Infosys,FY2026,standalone,capex,2170,INR crore,infosys-ar-26.pdf,216,247,"Expenditure on property, plant and equipment and intangibles, net of sale proceeds",cash_flow,yes,printed as (2170); net of sale proceeds
+Infosys,FY2025,standalone,capex,1587,INR crore,infosys-ar-26.pdf,216,247,"Expenditure on property, plant and equipment and intangibles, net of sale proceeds",cash_flow,yes,printed as (1587); net of sale proceeds
+Infosys,FY2026,consolidated,capex,2727,INR crore,infosys-ar-26.pdf,294,325,"Expenditure on property, plant and equipment and intangibles, net of sale proceeds",cash_flow,yes,printed as (2727); net of sale proceeds
+Infosys,FY2025,consolidated,capex,2237,INR crore,infosys-ar-26.pdf,294,325,"Expenditure on property, plant and equipment and intangibles, net of sale proceeds",cash_flow,yes,printed as (2237); net of sale proceeds
