@@ -30,9 +30,9 @@ QUERYING (online, every question)
 
 ## Step 0: Setup
 
-- [ ] Install Ollama for Windows (ollama.com), then `ollama pull qwen2.5:7b-instruct`. Test: `ollama run qwen2.5:7b-instruct "hello"`.
-- [ ] In `py3127`: `pip install sentence-transformers lancedb rank_bm25 ollama fastapi uvicorn`.
-- [ ] Optional but recommended: install the CUDA build of PyTorch so Docling and embeddings run on the GPU. Check that `torch.cuda.is_available()` returns `True`.
+- [x] Install Ollama for Windows (ollama.com), then `ollama pull qwen2.5:7b-instruct`. Test: `ollama run qwen2.5:7b-instruct "hello"`.
+- [x] In `py3127`: `pip install sentence-transformers lancedb rank_bm25 ollama fastapi uvicorn`.
+- [x] Optional but recommended: install the CUDA build of PyTorch so Docling and embeddings run on the GPU. Check that `torch.cuda.is_available()` returns `True`.
 
 **Done when:** Python can call Ollama and get a reply, and can embed one sentence.
 
